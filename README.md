@@ -1,0 +1,42 @@
+<div>
+   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/Matheusedus/"><i>Matheus Eduardo</i></a> 🙋‍♂️</h1>                                      </div>
+   
+   #### Desenvolvedor Back-End em formação, 2 anos de experiência na área de T.I, atuei em uma empresa multinacional e em um dos hotéis mais renomados de Minas Gerais - Hotel Villa Lobos, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis, etc.
+   Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
+
+<br>
+
+<div align="center">
+   <br>
+  <a href="https://github.com/Matheusedus">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheusedus&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusedus&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+<div >
+  <h2 align="center" >💻  Minhas Stacks:</H2>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="foto">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express">  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+<img src="https://img.shields.io/badge/-MariaDB-inactive?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb">
+<img src="https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white" alt="php">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
+<img src="https://img.shields.io/badge/-BootStrap-yellowgreen?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" alt="bootstrap">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+</div>
+ 
+    
+</div>
+   
+  
+  
+<br>  
+ ##
+
+ <br> <p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/Matheusedus/count.svg" />
+</p>
