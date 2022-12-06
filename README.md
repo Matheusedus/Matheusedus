@@ -29,8 +29,7 @@
 <img src="https://img.shields.io/badge/-BootStrap-yellowgreen?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" alt="bootstrap">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 </div>
- ![Snake animation](https://github.com/matheusedus/matheusedus/blob/output/github-contribution-grid-snake.svg)
-    
+   
 </div>
 
 <br>  
