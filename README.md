@@ -1,5 +1,6 @@
 <div>
-   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-edus/"><i>Matheus Eduardo</i></a> 🙋‍♂️</h1>                                      </div>
+   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-edus/"><i>Matheus Eduardo</i></a> 🙋‍♂️</h1>                                      
+</div>
    
    #### Desenvolvedor em formação, 2 anos de experiência na área de T.I, atuei em uma empresa multinacional e em um dos hotéis mais renomados de Minas Gerais, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis, etc.
    Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
@@ -8,8 +9,9 @@
 
 <div align="center">
    <br>
-  <a href="https://github.com/Matheusedus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheusedus&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/matheusedus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusedus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusedus&layout=compact&langs_count=7&theme=react" />
   
 </div>
 
@@ -27,12 +29,10 @@
 <img src="https://img.shields.io/badge/-BootStrap-yellowgreen?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" alt="bootstrap">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 </div>
- 
+ ![Snake animation](https://github.com/matheusedus/matheusedus/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-   
-  
-  
+
 <br>  
  ##
 
