@@ -2,7 +2,7 @@
    <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-edus/"><i>Matheus Eduardo</i></a> 🙋‍♂️</h1>                                      
 </div>
    
-   #### Desenvolvedor em formação, 2 anos de experiência na área de T.I, atuei em uma empresa multinacional e em um dos hotéis mais renomados de Minas Gerais, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis, etc.
+   <h3>#### Desenvolvedor em formação, 2 anos de experiência na área de T.I, atuei em uma empresa multinacional e em um dos hotéis mais renomados de Minas Gerais, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis, etc.</h3>
    Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
 
 <br>
