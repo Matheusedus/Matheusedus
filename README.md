@@ -2,8 +2,7 @@
    <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-edus/"><i>Matheus Eduardo</i></a> 🙋‍♂️</h1>                                      
 </div>
    
-   #### Desenvolvedor em formação, 5 anos de experiência na área de T.I, atuei em empresas multinacionais e em um dos hotéis mais renomados de Minas Gerais, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis, etc.
-   Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
+   #### Sou um Desenvolvedor Full Stack com 5 anos de experiência em Tecnologia da Informação. Trabalhei em empresas multinacionais e em um dos hotéis mais prestigiados de Minas Gerais, onde apliquei diariamente conceitos como autonomia, senso de urgência, análise de falhas e metodologias ágeis. Participei de diversos projetos utilizando linguagens e frameworks que estudo, os quais estão disponíveis no meu perfil do GitHub.
 
 <br>
 
